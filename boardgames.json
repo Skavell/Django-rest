@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Settlers of Catan",
+    "description": "A popular strategy board game.",
+    "price": "40.00",
+    "category": "Strategy",
+    "image": "/settlers.jpg"
+  },
+  {
+    "title": "Ticket to Ride",
+    "description": "A railway adventure game.",
+    "price": "35.00",
+    "category": "Board Games",
+    "image": "/ticket.jpg"
+  },
+  {
+    "title": "Codenames",
+    "description": "A word-based party game.",
+    "price": "30.00",
+    "category": "Cooperative",
+    "image": "/codenames.jpg"
+  },
+  {
+    "title": "Pandemic",
+    "description": "A cooperative board game about disease outbreaks.",
+    "price": "11.00",
+    "category": "Educational",
+    "image": "/pandemic.jpg"
+  },
+  {
+    "title": "Chess",
+    "description": "A classic strategy game.",
+    "price": "2.00",
+    "category": "Strategy",
+    "image": "/chess.jpg"
+  },
+  {
+    "title": "Jenga",
+    "description": "A stacking and balancing game.",
+    "price": "20.00",
+    "category": "Family",
+    "image": "/jenga.jpg"
+  },
+  {
+    "title": "Scrabble",
+    "description": "A word-forming game.",
+    "price": "13.00",
+    "category": "Educational",
+    "image": "/scrabble.jpg"
+  },
+  {
+    "title": "Risk",
+    "description": "A global domination strategy game.",
+    "price": "25.00",
+    "category": "Strategy",
+    "image": "/risk.jpg"
+  },
+  {
+    "title": "Monopoly",
+    "description": "A classic real estate trading game.",
+    "price": "25.00",
+    "category": "Board Games",
+    "image": "/monopoly.jpg"
+  },
+  {
+    "title": "The Game of Life",
+    "description": "A family-oriented board game.",
+    "price": "19.00",
+    "category": "Family",
+    "image": "/life.jpg"
+  }
+]
